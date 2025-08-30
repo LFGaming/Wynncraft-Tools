@@ -1,0 +1,219 @@
+{
+  "total_distance": 15387.010639173865,
+  "order_indices_1_based": [
+    1,
+    12,
+    18,
+    2,
+    4,
+    14,
+    6,
+    3,
+    8,
+    13,
+    10,
+    16,
+    9,
+    5,
+    19,
+    7,
+    17,
+    11,
+    20,
+    15,
+    21
+  ],
+  "order_names": [
+    "Bonfire 2025 1",
+    "Bonfire 2025 12",
+    "Bonfire 2025 18",
+    "Bonfire 2025 2",
+    "Bonfire 2025 4",
+    "Bonfire 2025 14",
+    "Bonfire 2025 6",
+    "Bonfire 2025 3",
+    "Bonfire 2025 8",
+    "Bonfire 2025 13",
+    "Bonfire 2025 10",
+    "Bonfire 2025 16",
+    "Bonfire 2025 9",
+    "Bonfire 2025 5",
+    "Bonfire 2025 19",
+    "Bonfire 2025 7",
+    "Bonfire 2025 17",
+    "Bonfire 2025 11",
+    "Bonfire 2025 20",
+    "Bonfire 2025 15",
+    "Bonfire 2025 21"
+  ],
+  "stops": [
+    {
+      "name": "Bonfire 2025 1",
+      "location": {
+        "x": -857,
+        "y": 68,
+        "z": -1526
+      }
+    },
+    {
+      "name": "Bonfire 2025 12",
+      "location": {
+        "x": -505,
+        "y": 53,
+        "z": -1882
+      }
+    },
+    {
+      "name": "Bonfire 2025 18",
+      "location": {
+        "x": -164,
+        "y": 72,
+        "z": -1581
+      }
+    },
+    {
+      "name": "Bonfire 2025 2",
+      "location": {
+        "x": -8,
+        "y": 75,
+        "z": -1167
+      }
+    },
+    {
+      "name": "Bonfire 2025 4",
+      "location": {
+        "x": -199,
+        "y": 25,
+        "z": -361
+      }
+    },
+    {
+      "name": "Bonfire 2025 14",
+      "location": {
+        "x": 744,
+        "y": 68,
+        "z": -1563
+      }
+    },
+    {
+      "name": "Bonfire 2025 6",
+      "location": {
+        "x": 862,
+        "y": 68,
+        "z": -1957
+      }
+    },
+    {
+      "name": "Bonfire 2025 3",
+      "location": {
+        "x": 679,
+        "y": 77,
+        "z": -2003
+      }
+    },
+    {
+      "name": "Bonfire 2025 8",
+      "location": {
+        "x": 52,
+        "y": 39,
+        "z": -2222
+      }
+    },
+    {
+      "name": "Bonfire 2025 13",
+      "location": {
+        "x": -679,
+        "y": 77,
+        "z": -3120
+      }
+    },
+    {
+      "name": "Bonfire 2025 10",
+      "location": {
+        "x": -1535,
+        "y": 69,
+        "z": -2900
+      }
+    },
+    {
+      "name": "Bonfire 2025 16",
+      "location": {
+        "x": -1997,
+        "y": 78,
+        "z": -4485
+      }
+    },
+    {
+      "name": "Bonfire 2025 9",
+      "location": {
+        "x": -1514,
+        "y": 45,
+        "z": -4757
+      }
+    },
+    {
+      "name": "Bonfire 2025 5",
+      "location": {
+        "x": -1807,
+        "y": 54,
+        "z": -5450
+      }
+    },
+    {
+      "name": "Bonfire 2025 19",
+      "location": {
+        "x": -1091,
+        "y": 44,
+        "z": -4960
+      }
+    },
+    {
+      "name": "Bonfire 2025 7",
+      "location": {
+        "x": -1018,
+        "y": 54,
+        "z": -5236
+      }
+    },
+    {
+      "name": "Bonfire 2025 17",
+      "location": {
+        "x": 176,
+        "y": 8,
+        "z": -5273
+      }
+    },
+    {
+      "name": "Bonfire 2025 11",
+      "location": {
+        "x": 737,
+        "y": 77,
+        "z": -5073
+      }
+    },
+    {
+      "name": "Bonfire 2025 20",
+      "location": {
+        "x": 1074,
+        "y": 14,
+        "z": -5160
+      }
+    },
+    {
+      "name": "Bonfire 2025 15",
+      "location": {
+        "x": 1017,
+        "y": 117,
+        "z": -4487
+      }
+    },
+    {
+      "name": "Bonfire 2025 21",
+      "location": {
+        "x": -276,
+        "y": 37,
+        "z": -4016
+      }
+    }
+  ]
+}
