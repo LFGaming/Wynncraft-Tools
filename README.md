@@ -10,3 +10,5 @@ At this moment in this repository:
   - [bondire.py](./Wynntills/Bonfire%20Event/bonfire.py) is a script to convert a file with coordinates to a Wynntils importable map location format.
 - [**Chest folder**](./Wynntills/Chests): My updated chest locations, which was started here: [Wynncraft Forums](https://forums.wynncraft.com/threads/wynntils-loot-chest-waypoint-hunt.262837/). 
   - In this folder there is also a python file to remove duplicates and remove old named chests.
+
+- [Wynncraft Fandom Redirect.user.js](./Wynntills/Wynncraft%20Fandom%20Redirect.user.js): A simple userscript to redirect from the fandom Wynncraft wiki to the wiki.gg version.
